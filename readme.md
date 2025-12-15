@@ -1,8 +1,8 @@
-# Portfolio Analista de Datos - OPEN SOURCE
+# Portfolio - OPEN SOURCE
 
 ![alt text](public/captura.PNG)
 
-Portfolio profesional para mostrar habilidades de análisis de datos, developer, Cybersecurity...
+Portfolio profesional
 
 ## 🚀 Cómo ejecutar
 
