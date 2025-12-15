@@ -1,6 +1,6 @@
 # Portfolio Analista de Datos
 
-![Vista del portfolio](captura.png)
+![alt text](public/captura.PNG)
 
 Portfolio profesional para mostrar habilidades de análisis de datos, dashboards y proyectos.
 
