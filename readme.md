@@ -1,4 +1,4 @@
-# Portfolio Analista de Datos
+# Portfolio Analista de Datos - OPEN SOURCE
 
 ![alt text](public/captura.PNG)
 
