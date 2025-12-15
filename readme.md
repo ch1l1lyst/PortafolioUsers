@@ -2,7 +2,7 @@
 
 ![alt text](public/captura.PNG)
 
-Portfolio profesional para mostrar habilidades de análisis de datos, dashboards y proyectos.
+Portfolio profesional para mostrar habilidades de análisis de datos, developer, Cybersecurity...
 
 ## 🚀 Cómo ejecutar
 
