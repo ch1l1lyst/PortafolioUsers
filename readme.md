@@ -1,4 +1,4 @@
-# Portfolio - OPEN SOURCE
+## Portafolio - OPEN SOURCE
 
 ![alt text](public/captura.PNG)
 
